@@ -1,0 +1,14 @@
+D:\Training\ObjectConst\ObjectConst\bin\Debug\net10.0\ObjectConst.exe
+D:\Training\ObjectConst\ObjectConst\bin\Debug\net10.0\ObjectConst.deps.json
+D:\Training\ObjectConst\ObjectConst\bin\Debug\net10.0\ObjectConst.runtimeconfig.json
+D:\Training\ObjectConst\ObjectConst\bin\Debug\net10.0\ObjectConst.dll
+D:\Training\ObjectConst\ObjectConst\bin\Debug\net10.0\ObjectConst.pdb
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.AssemblyInfoInputs.cache
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.AssemblyInfo.cs
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.csproj.CoreCompileInputs.cache
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.dll
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\refint\ObjectConst.dll
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.pdb
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ObjectConst.genruntimeconfig.cache
+D:\Training\ObjectConst\ObjectConst\obj\Debug\net10.0\ref\ObjectConst.dll

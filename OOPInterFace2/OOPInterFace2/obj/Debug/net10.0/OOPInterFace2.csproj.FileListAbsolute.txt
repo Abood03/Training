@@ -1,0 +1,14 @@
+D:\Training\OOPInterFace2\OOPInterFace2\bin\Debug\net10.0\OOPInterFace2.exe
+D:\Training\OOPInterFace2\OOPInterFace2\bin\Debug\net10.0\OOPInterFace2.deps.json
+D:\Training\OOPInterFace2\OOPInterFace2\bin\Debug\net10.0\OOPInterFace2.runtimeconfig.json
+D:\Training\OOPInterFace2\OOPInterFace2\bin\Debug\net10.0\OOPInterFace2.dll
+D:\Training\OOPInterFace2\OOPInterFace2\bin\Debug\net10.0\OOPInterFace2.pdb
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.AssemblyInfoInputs.cache
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.AssemblyInfo.cs
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.csproj.CoreCompileInputs.cache
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.dll
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\refint\OOPInterFace2.dll
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.pdb
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\OOPInterFace2.genruntimeconfig.cache
+D:\Training\OOPInterFace2\OOPInterFace2\obj\Debug\net10.0\ref\OOPInterFace2.dll

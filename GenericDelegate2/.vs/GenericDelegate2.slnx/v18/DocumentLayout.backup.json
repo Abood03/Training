@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\GenericDelegate2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC829B-BFB8-422A-A021-888151421D32}|GenericDelegate2\\GenericDelegate2.csproj|d:\\training\\genericdelegate2\\genericdelegate2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EC829B-BFB8-422A-A021-888151421D32}|GenericDelegate2\\GenericDelegate2.csproj|solutionrelative:genericdelegate2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\GenericDelegate2\\GenericDelegate2\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDelegate2\\Program.cs",
+              "ToolTip": "D:\\Training\\GenericDelegate2\\GenericDelegate2\\Program.cs*",
+              "RelativeToolTip": "GenericDelegate2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T07:51:48.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

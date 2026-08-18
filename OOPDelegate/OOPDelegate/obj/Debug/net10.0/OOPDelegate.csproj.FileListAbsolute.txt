@@ -1,0 +1,14 @@
+D:\Training\OOPDelegate\OOPDelegate\bin\Debug\net10.0\OOPDelegate.exe
+D:\Training\OOPDelegate\OOPDelegate\bin\Debug\net10.0\OOPDelegate.deps.json
+D:\Training\OOPDelegate\OOPDelegate\bin\Debug\net10.0\OOPDelegate.runtimeconfig.json
+D:\Training\OOPDelegate\OOPDelegate\bin\Debug\net10.0\OOPDelegate.dll
+D:\Training\OOPDelegate\OOPDelegate\bin\Debug\net10.0\OOPDelegate.pdb
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.AssemblyInfoInputs.cache
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.AssemblyInfo.cs
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.csproj.CoreCompileInputs.cache
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.dll
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\refint\OOPDelegate.dll
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.pdb
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\OOPDelegate.genruntimeconfig.cache
+D:\Training\OOPDelegate\OOPDelegate\obj\Debug\net10.0\ref\OOPDelegate.dll

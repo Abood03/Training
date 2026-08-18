@@ -1,0 +1,14 @@
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\bin\Debug\net10.0\ReflectionAndMetaData.exe
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\bin\Debug\net10.0\ReflectionAndMetaData.deps.json
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\bin\Debug\net10.0\ReflectionAndMetaData.runtimeconfig.json
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\bin\Debug\net10.0\ReflectionAndMetaData.dll
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\bin\Debug\net10.0\ReflectionAndMetaData.pdb
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.AssemblyInfoInputs.cache
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.AssemblyInfo.cs
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.csproj.CoreCompileInputs.cache
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.dll
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\refint\ReflectionAndMetaData.dll
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.pdb
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ReflectionAndMetaData.genruntimeconfig.cache
+D:\Training\ReflectionAndMetaData\ReflectionAndMetaData\obj\Debug\net10.0\ref\ReflectionAndMetaData.dll

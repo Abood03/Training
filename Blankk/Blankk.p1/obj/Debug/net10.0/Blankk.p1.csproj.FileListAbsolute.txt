@@ -1,0 +1,13 @@
+D:\Training\Blankk\Blankk.p1\bin\Debug\net10.0\Blankk.p1.deps.json
+D:\Training\Blankk\Blankk.p1\bin\Debug\net10.0\Blankk.p1.runtimeconfig.json
+D:\Training\Blankk\Blankk.p1\bin\Debug\net10.0\Blankk.p1.dll
+D:\Training\Blankk\Blankk.p1\bin\Debug\net10.0\Blankk.p1.pdb
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.AssemblyInfoInputs.cache
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.AssemblyInfo.cs
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.csproj.CoreCompileInputs.cache
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.dll
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\refint\Blankk.p1.dll
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.pdb
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\Blankk.p1.genruntimeconfig.cache
+D:\Training\Blankk\Blankk.p1\obj\Debug\net10.0\ref\Blankk.p1.dll

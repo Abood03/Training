@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\OOPExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F82BC02-BDB0-4FE8-B260-1EEBA92F38C0}|OOPExample\\OOPExample.csproj|d:\\training\\oopexample\\oopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F82BC02-BDB0-4FE8-B260-1EEBA92F38C0}|OOPExample\\OOPExample.csproj|solutionrelative:oopexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F82BC02-BDB0-4FE8-B260-1EEBA92F38C0}|OOPExample\\OOPExample.csproj|d:\\training\\oopexample\\oopexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F82BC02-BDB0-4FE8-B260-1EEBA92F38C0}|OOPExample\\OOPExample.csproj|solutionrelative:oopexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Training\\OOPExample\\OOPExample\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPExample\\Employee.cs",
+              "ToolTip": "D:\\Training\\OOPExample\\OOPExample\\Employee.cs",
+              "RelativeToolTip": "OOPExample\\Employee.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvykAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T09:50:41.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\OOPExample\\OOPExample\\Program.cs",
+              "RelativeDocumentMoniker": "OOPExample\\Program.cs",
+              "ToolTip": "D:\\Training\\OOPExample\\OOPExample\\Program.cs*",
+              "RelativeToolTip": "OOPExample\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T09:41:09.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Training\Exceptions\Exceptions\bin\Debug\net10.0\Exceptions.exe
+D:\Training\Exceptions\Exceptions\bin\Debug\net10.0\Exceptions.deps.json
+D:\Training\Exceptions\Exceptions\bin\Debug\net10.0\Exceptions.runtimeconfig.json
+D:\Training\Exceptions\Exceptions\bin\Debug\net10.0\Exceptions.dll
+D:\Training\Exceptions\Exceptions\bin\Debug\net10.0\Exceptions.pdb
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.AssemblyInfoInputs.cache
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.AssemblyInfo.cs
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.dll
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\refint\Exceptions.dll
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.pdb
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\Exceptions.genruntimeconfig.cache
+D:\Training\Exceptions\Exceptions\obj\Debug\net10.0\ref\Exceptions.dll

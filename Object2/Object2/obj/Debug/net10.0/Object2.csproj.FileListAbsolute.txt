@@ -1,0 +1,14 @@
+D:\Training\Object2\Object2\bin\Debug\net10.0\Object2.exe
+D:\Training\Object2\Object2\bin\Debug\net10.0\Object2.deps.json
+D:\Training\Object2\Object2\bin\Debug\net10.0\Object2.runtimeconfig.json
+D:\Training\Object2\Object2\bin\Debug\net10.0\Object2.dll
+D:\Training\Object2\Object2\bin\Debug\net10.0\Object2.pdb
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.AssemblyInfoInputs.cache
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.AssemblyInfo.cs
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.csproj.CoreCompileInputs.cache
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.dll
+D:\Training\Object2\Object2\obj\Debug\net10.0\refint\Object2.dll
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.pdb
+D:\Training\Object2\Object2\obj\Debug\net10.0\Object2.genruntimeconfig.cache
+D:\Training\Object2\Object2\obj\Debug\net10.0\ref\Object2.dll

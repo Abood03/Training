@@ -1,0 +1,14 @@
+D:\Training\Attributes\Attributes\bin\Debug\net10.0\Attributes.exe
+D:\Training\Attributes\Attributes\bin\Debug\net10.0\Attributes.deps.json
+D:\Training\Attributes\Attributes\bin\Debug\net10.0\Attributes.runtimeconfig.json
+D:\Training\Attributes\Attributes\bin\Debug\net10.0\Attributes.dll
+D:\Training\Attributes\Attributes\bin\Debug\net10.0\Attributes.pdb
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.AssemblyInfoInputs.cache
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.AssemblyInfo.cs
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.csproj.CoreCompileInputs.cache
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.dll
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\refint\Attributes.dll
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.pdb
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\Attributes.genruntimeconfig.cache
+D:\Training\Attributes\Attributes\obj\Debug\net10.0\ref\Attributes.dll

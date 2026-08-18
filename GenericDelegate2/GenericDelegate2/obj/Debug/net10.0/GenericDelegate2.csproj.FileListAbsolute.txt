@@ -1,0 +1,14 @@
+D:\Training\GenericDelegate2\GenericDelegate2\bin\Debug\net10.0\GenericDelegate2.exe
+D:\Training\GenericDelegate2\GenericDelegate2\bin\Debug\net10.0\GenericDelegate2.deps.json
+D:\Training\GenericDelegate2\GenericDelegate2\bin\Debug\net10.0\GenericDelegate2.runtimeconfig.json
+D:\Training\GenericDelegate2\GenericDelegate2\bin\Debug\net10.0\GenericDelegate2.dll
+D:\Training\GenericDelegate2\GenericDelegate2\bin\Debug\net10.0\GenericDelegate2.pdb
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.AssemblyInfoInputs.cache
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.AssemblyInfo.cs
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.csproj.CoreCompileInputs.cache
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.dll
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\refint\GenericDelegate2.dll
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.pdb
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\GenericDelegate2.genruntimeconfig.cache
+D:\Training\GenericDelegate2\GenericDelegate2\obj\Debug\net10.0\ref\GenericDelegate2.dll

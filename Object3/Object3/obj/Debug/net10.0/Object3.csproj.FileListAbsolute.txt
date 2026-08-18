@@ -1,0 +1,14 @@
+D:\Training\Object3\Object3\bin\Debug\net10.0\Object3.exe
+D:\Training\Object3\Object3\bin\Debug\net10.0\Object3.deps.json
+D:\Training\Object3\Object3\bin\Debug\net10.0\Object3.runtimeconfig.json
+D:\Training\Object3\Object3\bin\Debug\net10.0\Object3.dll
+D:\Training\Object3\Object3\bin\Debug\net10.0\Object3.pdb
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.AssemblyInfoInputs.cache
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.AssemblyInfo.cs
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.csproj.CoreCompileInputs.cache
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.dll
+D:\Training\Object3\Object3\obj\Debug\net10.0\refint\Object3.dll
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.pdb
+D:\Training\Object3\Object3\obj\Debug\net10.0\Object3.genruntimeconfig.cache
+D:\Training\Object3\Object3\obj\Debug\net10.0\ref\Object3.dll

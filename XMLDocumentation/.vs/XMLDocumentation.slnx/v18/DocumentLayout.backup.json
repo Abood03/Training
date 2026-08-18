@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\XMLDocumentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|d:\\training\\xmldocumentation\\xmldocumentation\\xmldocumentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|solutionrelative:xmldocumentation\\xmldocumentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|d:\\training\\xmldocumentation\\xmldocumentation\\xmldocumentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|solutionrelative:xmldocumentation\\xmldocumentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|d:\\training\\xmldocumentation\\xmldocumentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479E4E39-862E-40E4-94F6-2AFF851C276F}|XMLDocumentation\\XMLDocumentation.csproj|solutionrelative:xmldocumentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLDocumentation",
+              "DocumentMoniker": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\XMLDocumentation.csproj",
+              "RelativeDocumentMoniker": "XMLDocumentation\\XMLDocumentation.csproj",
+              "ToolTip": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\XMLDocumentation.csproj",
+              "RelativeToolTip": "XMLDocumentation\\XMLDocumentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T08:54:11.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLDocumentation",
+              "DocumentMoniker": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\XMLDocumentation.csproj",
+              "RelativeDocumentMoniker": "XMLDocumentation\\XMLDocumentation.csproj",
+              "ToolTip": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\XMLDocumentation.csproj",
+              "RelativeToolTip": "XMLDocumentation\\XMLDocumentation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T08:54:12.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\Program.cs",
+              "RelativeDocumentMoniker": "XMLDocumentation\\Program.cs",
+              "ToolTip": "D:\\Training\\XMLDocumentation\\XMLDocumentation\\Program.cs",
+              "RelativeToolTip": "XMLDocumentation\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T12:15:01.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

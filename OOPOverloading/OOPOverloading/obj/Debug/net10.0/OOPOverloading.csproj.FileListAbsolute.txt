@@ -1,0 +1,14 @@
+D:\Training\OOPOverloading\OOPOverloading\bin\Debug\net10.0\OOPOverloading.exe
+D:\Training\OOPOverloading\OOPOverloading\bin\Debug\net10.0\OOPOverloading.deps.json
+D:\Training\OOPOverloading\OOPOverloading\bin\Debug\net10.0\OOPOverloading.runtimeconfig.json
+D:\Training\OOPOverloading\OOPOverloading\bin\Debug\net10.0\OOPOverloading.dll
+D:\Training\OOPOverloading\OOPOverloading\bin\Debug\net10.0\OOPOverloading.pdb
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.AssemblyInfoInputs.cache
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.AssemblyInfo.cs
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.csproj.CoreCompileInputs.cache
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.dll
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\refint\OOPOverloading.dll
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.pdb
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\OOPOverloading.genruntimeconfig.cache
+D:\Training\OOPOverloading\OOPOverloading\obj\Debug\net10.0\ref\OOPOverloading.dll

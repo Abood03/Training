@@ -1,0 +1,14 @@
+D:\Training\OOPIneritance\OOPIneritance\bin\Debug\net10.0\OOPIneritance.exe
+D:\Training\OOPIneritance\OOPIneritance\bin\Debug\net10.0\OOPIneritance.deps.json
+D:\Training\OOPIneritance\OOPIneritance\bin\Debug\net10.0\OOPIneritance.runtimeconfig.json
+D:\Training\OOPIneritance\OOPIneritance\bin\Debug\net10.0\OOPIneritance.dll
+D:\Training\OOPIneritance\OOPIneritance\bin\Debug\net10.0\OOPIneritance.pdb
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.AssemblyInfoInputs.cache
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.AssemblyInfo.cs
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.csproj.CoreCompileInputs.cache
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.dll
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\refint\OOPIneritance.dll
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.pdb
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\OOPIneritance.genruntimeconfig.cache
+D:\Training\OOPIneritance\OOPIneritance\obj\Debug\net10.0\ref\OOPIneritance.dll

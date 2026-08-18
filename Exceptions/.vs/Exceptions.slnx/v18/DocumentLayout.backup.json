@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|d:\\training\\exceptions\\exceptions\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|d:\\training\\exceptions\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|d:\\training\\exceptions\\exceptions\\accidentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\accidentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|d:\\training\\exceptions\\exceptions\\invalidaddressexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3130FA-3763-4594-8E2E-4B0A8BF3A550}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\invalidaddressexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidAddressExeption.cs",
+              "DocumentMoniker": "D:\\Training\\Exceptions\\Exceptions\\InvalidAddressExeption.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidAddressExeption.cs",
+              "ToolTip": "D:\\Training\\Exceptions\\Exceptions\\InvalidAddressExeption.cs",
+              "RelativeToolTip": "Exceptions\\InvalidAddressExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:28:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccidentException.cs",
+              "DocumentMoniker": "D:\\Training\\Exceptions\\Exceptions\\AccidentException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\AccidentException.cs",
+              "ToolTip": "D:\\Training\\Exceptions\\Exceptions\\AccidentException.cs",
+              "RelativeToolTip": "Exceptions\\AccidentException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:19:25.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "D:\\Training\\Exceptions\\Exceptions\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "Exceptions\\DeliveryService.cs",
+              "ToolTip": "D:\\Training\\Exceptions\\Exceptions\\DeliveryService.cs*",
+              "RelativeToolTip": "Exceptions\\DeliveryService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T08:46:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Exceptions\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "D:\\Training\\Exceptions\\Exceptions\\Program.cs*",
+              "RelativeToolTip": "Exceptions\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T08:08:04.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

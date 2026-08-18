@@ -1,0 +1,14 @@
+D:\Training\OOPEnums\OOPEnums\bin\Debug\net10.0\OOPEnums.exe
+D:\Training\OOPEnums\OOPEnums\bin\Debug\net10.0\OOPEnums.deps.json
+D:\Training\OOPEnums\OOPEnums\bin\Debug\net10.0\OOPEnums.runtimeconfig.json
+D:\Training\OOPEnums\OOPEnums\bin\Debug\net10.0\OOPEnums.dll
+D:\Training\OOPEnums\OOPEnums\bin\Debug\net10.0\OOPEnums.pdb
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.AssemblyInfoInputs.cache
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.AssemblyInfo.cs
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.csproj.CoreCompileInputs.cache
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.dll
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\refint\OOPEnums.dll
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.pdb
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\OOPEnums.genruntimeconfig.cache
+D:\Training\OOPEnums\OOPEnums\obj\Debug\net10.0\ref\OOPEnums.dll

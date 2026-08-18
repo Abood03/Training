@@ -1,0 +1,14 @@
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\bin\Debug\net10.0\EnumeratorsIterators.exe
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\bin\Debug\net10.0\EnumeratorsIterators.deps.json
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\bin\Debug\net10.0\EnumeratorsIterators.runtimeconfig.json
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\bin\Debug\net10.0\EnumeratorsIterators.dll
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\bin\Debug\net10.0\EnumeratorsIterators.pdb
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.AssemblyInfoInputs.cache
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.AssemblyInfo.cs
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.csproj.CoreCompileInputs.cache
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.dll
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\refint\EnumeratorsIterators.dll
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.pdb
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\EnumeratorsIterators.genruntimeconfig.cache
+D:\Training\EnumeratorsIterators\EnumeratorsIterators\obj\Debug\net10.0\ref\EnumeratorsIterators.dll

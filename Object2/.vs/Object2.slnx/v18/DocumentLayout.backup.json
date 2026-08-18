@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Object2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FC00F-EA0C-42E3-B62C-5661B003B0FF}|Object2\\Object2.csproj|d:\\training\\object2\\object2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FC00F-EA0C-42E3-B62C-5661B003B0FF}|Object2\\Object2.csproj|solutionrelative:object2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3FC00F-EA0C-42E3-B62C-5661B003B0FF}|Object2\\Object2.csproj|d:\\training\\object2\\object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3FC00F-EA0C-42E3-B62C-5661B003B0FF}|Object2\\Object2.csproj|solutionrelative:object2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Training\\Object2\\Object2\\Employee.cs",
+              "RelativeDocumentMoniker": "Object2\\Employee.cs",
+              "ToolTip": "D:\\Training\\Object2\\Object2\\Employee.cs*",
+              "RelativeToolTip": "Object2\\Employee.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T13:22:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Object2\\Object2\\Program.cs",
+              "RelativeDocumentMoniker": "Object2\\Program.cs",
+              "ToolTip": "D:\\Training\\Object2\\Object2\\Program.cs",
+              "RelativeToolTip": "Object2\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T12:51:56.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

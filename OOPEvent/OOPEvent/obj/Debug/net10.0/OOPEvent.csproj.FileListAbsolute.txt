@@ -1,0 +1,14 @@
+D:\Training\OOPEvent\OOPEvent\bin\Debug\net10.0\OOPEvent.exe
+D:\Training\OOPEvent\OOPEvent\bin\Debug\net10.0\OOPEvent.deps.json
+D:\Training\OOPEvent\OOPEvent\bin\Debug\net10.0\OOPEvent.runtimeconfig.json
+D:\Training\OOPEvent\OOPEvent\bin\Debug\net10.0\OOPEvent.dll
+D:\Training\OOPEvent\OOPEvent\bin\Debug\net10.0\OOPEvent.pdb
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.AssemblyInfoInputs.cache
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.AssemblyInfo.cs
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.csproj.CoreCompileInputs.cache
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.dll
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\refint\OOPEvent.dll
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.pdb
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\OOPEvent.genruntimeconfig.cache
+D:\Training\OOPEvent\OOPEvent\obj\Debug\net10.0\ref\OOPEvent.dll

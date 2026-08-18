@@ -1,0 +1,14 @@
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.AssemblyInfoInputs.cache
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.AssemblyInfo.cs
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.csproj.CoreCompileInputs.cache
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\bin\Debug\net10.0\ReflectionAndMetadata2.exe
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\bin\Debug\net10.0\ReflectionAndMetadata2.deps.json
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\bin\Debug\net10.0\ReflectionAndMetadata2.runtimeconfig.json
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\bin\Debug\net10.0\ReflectionAndMetadata2.dll
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\bin\Debug\net10.0\ReflectionAndMetadata2.pdb
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.dll
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\refint\ReflectionAndMetadata2.dll
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.pdb
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ReflectionAndMetadata2.genruntimeconfig.cache
+D:\Training\ReflectionAndMetadata2\ReflectionAndMetadata2\obj\Debug\net10.0\ref\ReflectionAndMetadata2.dll

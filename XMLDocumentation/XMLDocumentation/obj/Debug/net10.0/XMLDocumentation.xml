@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XMLDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:Generator">
+            <summary>
+            The main Generator class
+            </summary>
+            <remarks>
+            This class can generate Emp Ids and random password
+            </remarks>
+        </member>
+        <member name="P:Generator.LastIdSequence">
+            <value> value of last Id sequence</value>
+            
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Generator.GenerateId(System.String,System.String,System.Nullable{System.DateTime})" -->
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+D:\Training\ObjectProperites\ObjectProperites\bin\Debug\net10.0\ObjectProperites.exe
+D:\Training\ObjectProperites\ObjectProperites\bin\Debug\net10.0\ObjectProperites.deps.json
+D:\Training\ObjectProperites\ObjectProperites\bin\Debug\net10.0\ObjectProperites.runtimeconfig.json
+D:\Training\ObjectProperites\ObjectProperites\bin\Debug\net10.0\ObjectProperites.dll
+D:\Training\ObjectProperites\ObjectProperites\bin\Debug\net10.0\ObjectProperites.pdb
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.AssemblyInfoInputs.cache
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.AssemblyInfo.cs
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.csproj.CoreCompileInputs.cache
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.dll
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\refint\ObjectProperites.dll
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.pdb
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ObjectProperites.genruntimeconfig.cache
+D:\Training\ObjectProperites\ObjectProperites\obj\Debug\net10.0\ref\ObjectProperites.dll

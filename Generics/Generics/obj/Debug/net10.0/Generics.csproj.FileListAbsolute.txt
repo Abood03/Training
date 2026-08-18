@@ -1,0 +1,14 @@
+D:\Training\Generics\Generics\bin\Debug\net10.0\Generics.exe
+D:\Training\Generics\Generics\bin\Debug\net10.0\Generics.deps.json
+D:\Training\Generics\Generics\bin\Debug\net10.0\Generics.runtimeconfig.json
+D:\Training\Generics\Generics\bin\Debug\net10.0\Generics.dll
+D:\Training\Generics\Generics\bin\Debug\net10.0\Generics.pdb
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfoInputs.cache
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.AssemblyInfo.cs
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.csproj.CoreCompileInputs.cache
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.dll
+D:\Training\Generics\Generics\obj\Debug\net10.0\refint\Generics.dll
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.pdb
+D:\Training\Generics\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
+D:\Training\Generics\Generics\obj\Debug\net10.0\ref\Generics.dll

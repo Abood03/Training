@@ -1,0 +1,16 @@
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.AssemblyInfoInputs.cache
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.AssemblyInfo.cs
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.csproj.CoreCompileInputs.cache
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.exe
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.deps.json
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.runtimeconfig.json
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.dll
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.pdb
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.dll
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\refint\XMLDocumentation.dll
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.pdb
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.genruntimeconfig.cache
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\ref\XMLDocumentation.dll
+D:\Training\XMLDocumentation\XMLDocumentation\bin\Debug\net10.0\XMLDocumentation.xml
+D:\Training\XMLDocumentation\XMLDocumentation\obj\Debug\net10.0\XMLDocumentation.xml
